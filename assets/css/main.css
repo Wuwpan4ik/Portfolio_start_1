@@ -1,0 +1,15 @@
+.reg {
+	display: block;
+}
+
+.auth {
+	display: none;
+}
+
+.reg.active {
+	display: none;
+}
+
+.auth.active {
+	display: block;
+}
